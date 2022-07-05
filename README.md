@@ -1,9 +1,17 @@
-### 🤖안녕하세요! 
+
+<div align=center>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello! %20I'm Mini&fontSize=80" />
+
+
+🤖안녕하세요! 
 ### 😀FRONT-END 개발 취준생 정민희입니다! 
 
 [별거없는...그래도 조금씩 기록하는 블로그](https://mini1122.tistory.com/)
 
 
+&nbsp;
+&nbsp;
 &nbsp;
 
 
@@ -23,3 +31,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsgml1640)](https://github.com/alsgml1640/github-readme-stats)
 
 
+</div>
