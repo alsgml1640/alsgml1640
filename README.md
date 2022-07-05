@@ -1,7 +1,7 @@
 
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello! %20I'm Mini&fontSize=80&fontColor=d6ace6" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello! %20I'm Mini&fontSize=80&fontColor=FBEFEF&animation=fadeIn" />
 
 
 🤖안녕하세요! 
@@ -29,6 +29,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsgml1640)](https://github.com/alsgml1640/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsgml1640&show_icons=true&theme=radical)
 
 
 </div>
