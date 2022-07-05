@@ -8,9 +8,9 @@
 <br>
 ### 😀FRONT-END 개발 취준생 정민희입니다! 
 <br>
-<a href="https://mini1122.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-blue"></a>
+<a href="https://mini1122.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Tistory-blue"></a>
 
-<a href="https://www.instagram.com/mi.__.in/">
+<a href="https://www.instagram.com/mi.__.in/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 <br>
