@@ -1,7 +1,7 @@
 
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello! %20I'm Mini&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello! %20I'm Mini&fontSize=80&fontColor=d6ace6" />
 
 
 🤖안녕하세요! 
