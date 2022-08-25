@@ -1,12 +1,8 @@
 
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello! %20I'm Mini&fontSize=80&fontColor=FBEFEF&animation=fadeIn" />
-
-
-🤖안녕하세요! 
-<br>
-### 😀FRONT-END 개발 취준생 정민희입니다! 
+ ## 🤖안녕하세요! 😀FRONT-END 개발 취준생 정민희입니다!  
+ 
 <br>
 <a href="https://mini1122.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Tistory-blue"></a>
 
